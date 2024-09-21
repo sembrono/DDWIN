@@ -165,14 +165,14 @@ function Start() {
   UMIRROR=''
   SYSMIRROR1='https://oss.suntl.com/Windows/Win7_86_Administrator_nat.ee.gz'
   SYSMIRROR2='https://oss.suntl.com/Windows/Win8.1_64_Administrator_nat.ee.gz'
-  SYSMIRROR3='https://oss.suntl.com/Windows/Win10_2016LTSB_64_Administrator_nat.ee.gz'
-  SYSMIRROR4='https://oss.suntl.com/Windows/Win10_2019LTSC_64_Administrator_nat.ee.gz'
-  SYSMIRROR5='https://oss.suntl.com/Windows/Win10_2021LTSC_64_Administrator_nat.ee.gz'
-  SYSMIRROR6='https://file.1323123.xyz/dd/windows/cxthhhhh/Disk_Windows_7_Vienna_Ultimate_CN_v2.0.vhd.gz'
-  SYSMIRROR7='http://disk.29296819.xyz/d/dd/os/cxthhhhh/Rocky_8.X_ARM64_UEFI_NetInstallation_Stable_v6.11.vhd.gz'
-  SYSMIRROR8='http://disk.29296819.xyz/d/dd/os/cxthhhhh/CentOS_9.X_x64_Legacy_NetInstallation_Stable_v1.6.vhd.gz'
-  SYSMIRROR17='http://disk.29296819.xyz/d/dd/os/cxthhhhh/new/Disk_Windows_Server_2022_DataCenter_CN_v2.12.vhd.gz'
-  SYSMIRROR18='http://disk.29296819.xyz/d/dd/os/cxthhhhh/new/Disk_Windows_Server_2022_DataCenter_CN_v2.12_UEFI.vhd.gz'
+  SYSMIRROR3='https://file.1323123.xyz/dd/windows/cxthhhhh/Disk_Windows_7_Vienna_Ultimate_CN_v2.0.vhd.gz'
+  SYSMIRROR4='https://oss.sunpma.com/Windows/Whole/Win7_sp1_64_Administrator_nat.ee.gz'
+  SYSMIRROR5='https://oss.sunpma.com/Windows/Whole/Win8.1_64_Administrator_nat.ee.gz'
+  SYSMIRROR6='https://oss.sunpma.com/Windows/Whole/Win10_LTSC_64_Administrator_nat.ee.gz'
+  SYSMIRROR7='https://oss.suntl.com/Windows/Win10_2016LTSB_64_Administrator_nat.ee.gz'
+  SYSMIRROR8='https://oss.suntl.com/Windows/Win10_2019LTSC_64_Administrator_nat.ee.gz'
+  SYSMIRROR9='https://oss.suntl.com/Windows/Win10_2021LTSC_64_Administrator_nat.ee.gz'
+  SYSMIRROR10='https://file.1323123.xyz/dd/windows/teddysun/zh-cn_windows11_22h2.xz'
   SYSMIRROR19='http://disk.29296819.xyz/d/dd/os/cxthhhhh/new/Disk_Windows_Server_2019_DataCenter_CN_v5.1.vhd.gz'
   SYSMIRROR20='http://disk.29296819.xyz/d/dd/os/cxthhhhh/new/Disk_Windows_Server_2016_DataCenter_CN_v4.12.vhd.gz'
   SYSMIRROR21='http://disk.29296819.xyz/d/dd/os/cxthhhhh/new/Disk_Windows_Server_2012R2_DataCenter_CN_v4.29.vhd.gz'
@@ -204,14 +204,14 @@ function Start() {
     UMIRROR="--mirror http://mirrors.aliyun.com/ubuntu/"
     SYSMIRROR1='https://oss.suntl.com/Windows/Win7_86_Administrator_nat.ee.gz'
     SYSMIRROR2='https://oss.suntl.com/Windows/Win8.1_64_Administrator_nat.ee.gz'
-    SYSMIRROR3='https://oss.suntl.com/Windows/Win10_2016LTSB_64_Administrator_nat.ee.gz'
-    SYSMIRROR4='https://oss.suntl.com/Windows/Win10_2019LTSC_64_Administrator_nat.ee.gz'
-    SYSMIRROR5='https://oss.suntl.com/Windows/Win10_2021LTSC_64_Administrator_nat.ee.gz'
+    SYSMIRROR3='https://file.1323123.xyz/dd/windows/cxthhhhh/Disk_Windows_7_Vienna_Ultimate_CN_v2.0.vhd.gz'
+    SYSMIRROR4='https://oss.sunpma.com/Windows/Whole/Win7_sp1_64_Administrator_nat.ee.gz'
+    SYSMIRROR5='https://oss.sunpma.com/Windows/Whole/Win8.1_64_Administrator_nat.ee.gz'
     SYSMIRROR6='https://file.1323123.xyz/dd/windows/cxthhhhh/Disk_Windows_7_Vienna_Ultimate_CN_v2.0.vhd.gz'
-    SYSMIRROR7='http://disk.29296819.xyz/d/dd/os/cxthhhhh/Rocky_8.X_ARM64_UEFI_NetInstallation_Stable_v6.11.vhd.gz'
-    SYSMIRROR8='http://disk.29296819.xyz/d/dd/os/cxthhhhh/CentOS_9.X_x64_Legacy_NetInstallation_Stable_v1.6.vhd.gz'
-    SYSMIRROR17='http://disk.29296819.xyz/d/dd/os/cxthhhhh/new/Disk_Windows_Server_2022_DataCenter_CN_v2.12.vhd.gz'
-    SYSMIRROR18='http://disk.29296819.xyz/d/dd/os/cxthhhhh/new/Disk_Windows_Server_2022_DataCenter_CN_v2.12_UEFI.vhd.gz'
+    SYSMIRROR7='https://oss.suntl.com/Windows/Win10_2016LTSB_64_Administrator_nat.ee.gz'
+    SYSMIRROR8='https://oss.suntl.com/Windows/Win10_2019LTSC_64_Administrator_nat.ee.gz'
+    SYSMIRROR9='https://oss.suntl.com/Windows/Win10_2021LTSC_64_Administrator_nat.ee.gz'
+    SYSMIRROR10='https://file.1323123.xyz/dd/windows/teddysun/zh-cn_windows11_22h2.xz'
     SYSMIRROR19='http://disk.29296819.xyz/d/dd/os/cxthhhhh/new/Disk_Windows_Server_2019_DataCenter_CN_v5.1.vhd.gz'
     SYSMIRROR20='http://disk.29296819.xyz/d/dd/os/cxthhhhh/new/Disk_Windows_Server_2016_DataCenter_CN_v4.12.vhd.gz'
     SYSMIRROR21='http://disk.29296819.xyz/d/dd/os/cxthhhhh/new/Disk_Windows_Server_2012R2_DataCenter_CN_v4.29.vhd.gz'
@@ -241,14 +241,14 @@ function Start() {
   echo -e "\nPlease select an OS:"
   echo "   1) Windows7 32位 精简版 BIOS [账户Administrator密码nat.ee]"
   echo "   2) Windows7 sp1 64位 企业精简版 BIOS [账户Administrator密码nat.ee]"
-  echo "   3) Windows10 2016LTSB 64位 企业深度精简版 BIOS [账户Administrator密码nat.ee]无IE"
-  echo "   4) Windows10 2019LTSC 64位 企业深度精简版 BIOS [账户Administrator密码nat.ee]"
-  echo "   5) Windows10 2021LTSC 64位 企业深度精简版 BIOS [账户Administrator密码nat.ee]"
-  echo "   6) win7旗舰版精简版 BIOS [账户Administrator密码cxthhhhh]"
-  echo "   7) Rocky 8 [ARM64-UEFI-cxthhhhh]"
-  echo "   8) CentOS 9 [X64-Legacy-cxthhhhh]"
-  echo "   9) CentOS 6"
-  echo "  10) Debian 11"
+  echo "   3) win7旗舰版精简版 BIOS [账户Administrator密码cxthhhhh.com]带播放器"
+  echo "   4) Windows7 sp1 64位 企业完整版 [账户Administrator密码nat.ee]"
+  echo "   5) Windows8.1 64位 完整版 [账户Administrator密码nat.ee]"
+  echo "   6) Windows10 LTSC 64位 完整版 [账户Administrator密码nat.ee]"
+  echo "   7) Windows10 2016LTSB 64位 企业深度精简版 BIOS [账户Administrator密码nat.ee] 没有IE"
+  echo "   8) Windows10 2019LTSC 64位 企业深度精简版 BIOS [账户Administrator密码nat.ee]"
+  echo "   9) Windows10 2021LTSC 64位 企业深度精简版 BIOS [账户Administrator密码nat.ee]"
+  echo "  10) Windows11 22H2 64位 精简版 BIOS [账户Administrator密码cxthhhhh.com]"
   echo "  11) Debian 10"
   echo "  12) Debian 9"
   echo "  13) Debian 8"
