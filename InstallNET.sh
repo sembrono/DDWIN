@@ -164,7 +164,7 @@ function Start() {
   DMIRROR=''
   UMIRROR=''
   SYSMIRROR1='https://oss.suntl.com/Windows/Win7_86_Administrator_nat.ee.gz'
-  SYSMIRROR2='https://oss.suntl.com/Windows/Win8.1_64_Administrator_nat.ee.gz'
+  SYSMIRROR2='https://oss.suntl.com/Windows/Win7_sp1_64_Administrator_nat.ee.gz'
   SYSMIRROR3='https://file.1323123.xyz/dd/windows/cxthhhhh/Disk_Windows_7_Vienna_Ultimate_CN_v2.0.vhd.gz'
   SYSMIRROR4='https://oss.sunpma.com/Windows/Whole/Win7_sp1_64_Administrator_nat.ee.gz'
   SYSMIRROR5='https://oss.sunpma.com/Windows/Whole/Win8.1_64_Administrator_nat.ee.gz'
@@ -203,11 +203,11 @@ function Start() {
     DMIRROR="--mirror http://mirrors.aliyun.com/debian/"
     UMIRROR="--mirror http://mirrors.aliyun.com/ubuntu/"
     SYSMIRROR1='https://oss.suntl.com/Windows/Win7_86_Administrator_nat.ee.gz'
-    SYSMIRROR2='https://oss.suntl.com/Windows/Win8.1_64_Administrator_nat.ee.gz'
+    SYSMIRROR2='https://oss.suntl.com/Windows/Win7_sp1_64_Administrator_nat.ee.gz'
     SYSMIRROR3='https://file.1323123.xyz/dd/windows/cxthhhhh/Disk_Windows_7_Vienna_Ultimate_CN_v2.0.vhd.gz'
     SYSMIRROR4='https://oss.sunpma.com/Windows/Whole/Win7_sp1_64_Administrator_nat.ee.gz'
     SYSMIRROR5='https://oss.sunpma.com/Windows/Whole/Win8.1_64_Administrator_nat.ee.gz'
-    SYSMIRROR6='https://file.1323123.xyz/dd/windows/cxthhhhh/Disk_Windows_7_Vienna_Ultimate_CN_v2.0.vhd.gz'
+    SYSMIRROR6='https://oss.sunpma.com/Windows/Whole/Win10_LTSC_64_Administrator_nat.ee.gz'
     SYSMIRROR7='https://oss.suntl.com/Windows/Win10_2016LTSB_64_Administrator_nat.ee.gz'
     SYSMIRROR8='https://oss.suntl.com/Windows/Win10_2019LTSC_64_Administrator_nat.ee.gz'
     SYSMIRROR17='https://oss.suntl.com/Windows/Win10_2021LTSC_64_Administrator_nat.ee.gz'
@@ -241,7 +241,7 @@ function Start() {
   echo -e "\nPlease select an OS:"
   echo "   1) Windows7 32位 精简版 BIOS [账户Administrator密码nat.ee]"
   echo "   2) Windows7 sp1 64位 企业精简版 BIOS [账户Administrator密码nat.ee]"
-  echo "   3) win7旗舰版精简版 BIOS [账户Administrator密码cxthhhhh.com]带播放器"
+  echo "   3) Win7旗舰版精简版 BIOS [账户Administrator密码cxthhhhh.com]带播放器"
   echo "   4) Windows7 sp1 64位 企业完整版 [账户Administrator密码nat.ee]"
   echo "   5) Windows8.1 64位 完整版 [账户Administrator密码nat.ee]"
   echo "   6) Windows10 LTSC 64位 完整版 [账户Administrator密码nat.ee]"
